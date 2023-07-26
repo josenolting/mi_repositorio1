@@ -1,0 +1,8 @@
+setup.py
+paq_Preentrega2.egg-info/PKG-INFO
+paq_Preentrega2.egg-info/SOURCES.txt
+paq_Preentrega2.egg-info/dependency_links.txt
+paq_Preentrega2.egg-info/top_level.txt
+paquete1/__init__.py
+paquete1/modulo1.py
+paquete1/modulo2.py
